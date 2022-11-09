@@ -66,7 +66,7 @@ html{
     text-decoration: none;
 }
 .header_baner{
-    background: url(/img/header_baner.jpg) top center no-repeat;
+    background: url(./img/header_baner.jpg) top center no-repeat;
     background-size: cover;
     padding-bottom: 40px;
 }   
@@ -170,7 +170,7 @@ h2{
 }
 
 .photo1{
-    background: url(/img/sec1_1.jpg) top center no-repeat;
+    background: url(./img/sec1_1.jpg) top center no-repeat;
     width: 576px;
     height: 600px;
     display: flex;
@@ -180,7 +180,7 @@ h2{
 }
 
 .photo2{
-    background: url(/img/sec1_2.jpg) top center no-repeat;
+    background: url(./img/sec1_2.jpg) top center no-repeat;
     width: 576px;
     height: 600px;
     display: flex;
@@ -190,7 +190,7 @@ h2{
 }
 
 .photo3{
-    background: url(/img/sec1_3.jpg) top center no-repeat;
+    background: url(./img/sec1_3.jpg) top center no-repeat;
     width: 576px;
     height: 600px;
     display: flex;
@@ -200,7 +200,7 @@ h2{
 }
 
 .photo4{
-    background: url(/img/sec1_4.jpg) top center no-repeat;
+    background: url(./img/sec1_4.jpg) top center no-repeat;
     width: 576px;
     height: 600px;
     display: flex;
@@ -261,7 +261,7 @@ h2{
 /*section 2*/
 
 .section_2{
-    background: url(/img/sec2_baner.jpg) top center no-repeat;
+    background: url(./img/sec2_baner.jpg) top center no-repeat;
     height: 600px;
     background-size: cover;
     display: flex;
@@ -344,7 +344,7 @@ h3{
     border-radius: 14px;
 }
 .s3_right{
-    background: url(/img/sec3_1.jpg) top center no-repeat;
+    background: url(./img/sec3_1.jpg) top center no-repeat;
     width: 50%;
     background-size: cover;
     display: flex;
@@ -356,7 +356,7 @@ h3{
 /*section 4*/
 
 .section_4{
-    background: url(/img/sec4_baner.jpg) top center no-repeat;
+    background: url(./img/sec4_baner.jpg) top center no-repeat;
     height: 600px;
     background-size: cover;
     display: flex;
@@ -386,7 +386,7 @@ h3{
 /*section 6*/
 
 .section_6{
-    background: url(/img/sec6_baner.png) center center no-repeat;
+    background: url(./img/sec6_baner.png) center center no-repeat;
     height: 600px;
     background-size: cover;
     display: flex;
